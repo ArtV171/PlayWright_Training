@@ -1,0 +1,6 @@
+{
+  "name": "Valid customer",
+  "email": "customer3@practicesoftwaretesting.com",
+  "password": "pass123",
+  "expectedResult": "success"
+}
